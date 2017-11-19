@@ -6,4 +6,5 @@ It is reactjs app.
  cd Reactjs-App-Youtube-Player
  npm install
  npm start
+ goto localhost:8080 on browser
 ```
