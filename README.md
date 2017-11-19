@@ -3,7 +3,7 @@ It is reactjs app.
 ```
  #To start the app:
  git clone https://github.com/pankaj142/Reactjs-App-Youtube-Player.git
- cd ReduxSimpleStarter
+ cd Reactjs-App-Youtube-Player
  npm install
  npm start
 ```
