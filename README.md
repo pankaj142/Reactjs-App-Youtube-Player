@@ -1,6 +1,6 @@
 # Reactjs-App-Youtube-Player
 
-Copy youtube website.
+Copy of youtube website.
 
 # Functionalities
 
