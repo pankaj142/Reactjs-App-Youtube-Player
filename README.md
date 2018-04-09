@@ -19,7 +19,7 @@ Copy of youtube website.
 
 # See App
 
-Link: NA
+Link: https://youtube-vid-player.herokuapp.com/
 
 # To start the app follow the commands on command prompt:
 
